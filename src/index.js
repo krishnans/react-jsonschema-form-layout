@@ -1,3 +1,4 @@
+// This is a test to check to the yarn add git link
 import React from 'react'
 import ObjectField from 'react-jsonschema-form/lib/components/fields/ObjectField'
 import { retrieveSchema } from 'react-jsonschema-form/lib/utils'
